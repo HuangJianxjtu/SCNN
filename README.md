@@ -18,7 +18,7 @@ VGG16+SCNN outperforms ResNet101 on lane detection.
 
 ### Requirements
 - [Torch](http://torch.ch/docs/getting-started.html), please follow the installation instructions at [fb.resnet.torch](https://github.com/facebook/fb.resnet.torch).
-- Matlab (for tools/prob2lines), version R2014a or later.
+- [Matlab](https://www.quora.com/How-do-I-download-and-install-MATLAB-on-Ubuntu-14-04), (for tools/prob2lines), version R2014a or later.
 - Opencv (for tools/lane_evaluation), version 2.4.8 (later 2.4.x should also work).
 - Hardware: 
 For testing, GPU with 3G memory suffices.
